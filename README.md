@@ -1,2 +1,2 @@
 # QA-Reg-page
-QA school rehistration page
+QA school registration page (test)
